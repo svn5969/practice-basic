@@ -1,0 +1,56 @@
+h3 {
+  text-align: center;
+  background-color: rgb(19, 179, 125);
+  border: 3px solid rgb(241, 46, 46);
+}
+form {
+  text-align: center;
+  background-color: rgb(22, 224, 208);
+  padding: 20px 40px;
+  font-family: Ubuntu;
+}
+.form-group1 {
+  background-color: rgb(23, 226, 124);
+  color: black;
+  border: 10px solid rgb(18, 126, 214);
+  margin: 10px 20px 40px 40px;
+  padding: 20px 40px;
+  width: 300px;
+  height: 300px;
+  float: right;
+}
+.form-group1 #fname {
+  border: 10px aliceblue;
+  width: 180px;
+  height: 30px;
+  margin: 10px 0px 20px 10px;
+}
+.form-group1 #lname {
+  border: 10px aliceblue;
+  width: 180px;
+  height: 30px;
+  margin: 10px 0px 20px 10px;
+}
+.form-group1 #password {
+  border: 10px aliceblue;
+  width: 180px;
+  height: 30px;
+  margin: 10px 0px 20px 10px;
+}
+
+.form-group2 {
+  background-color: rgb(23, 226, 124);
+  color: black;
+  border: 10px solid rgb(18, 126, 214);
+  margin: 10px 20px 40px 40px;
+  padding: 20px 40px;
+  width: 300px;
+  height: 300px;
+  float: top;
+}
+.form-group2 #details {
+  border: 10px radius antiquewhite;
+  width: 180px;
+  height: 100px;
+  margin: 10px 0px 20px 10px;
+}
